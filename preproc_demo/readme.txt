@@ -1,0 +1,2 @@
+Preprocessing notebook. Initially written while working in the datalab
+as a progress report of a larger project. The pdf was generated as a summary to keep other members of the PAM lab and faculty updated.
